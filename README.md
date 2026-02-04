@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Abdisalam Farah  
 
-<!--
-**AbdisalamAshkir/AbdisalamAshkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Web & App Developer | AI Enthusiast 🤖  
+🌍 From Somalia 🇸🇴  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 I’m currently working on Web & Mobile Applications  
+- 🌱 I’m currently learning AI and advanced frameworks  
+- 💬 Ask me about Web Development, Mobile Apps, and Programming  
+- 📫 How to reach me: your-email@gmail.com  
+
+---
+
+### ⚙️ Tech Stack & Skills
+- 💻 Languages: JavaScript, Python, PHP  
+- 🌐 Frontend: HTML, CSS, Tailwind CSS, Bootstrap, React  
+- ⚙️ Backend: Node.js, Express  
+- 📱 Mobile: Flutter  
+- 🗄️ Databases: MongoDB, MySQL  
+- 🤖 AI & Tools: Git, GitHub, Figma, AI  
+
+---
+
+### 🚀 Goals
+- Build modern and scalable applications  
+- Learn more about AI and Full-Stack Development  
+- Contribute to open-source projects  
+
+---
+
+⭐ If you like my projects, don’t forget to star them!
